@@ -1,0 +1,6 @@
+Age,Gender,country ,state,self_employed,family_history,treatement ,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_programm,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,comments
+37,Male,India,MP,no,no,yes,often,26-100,yes,yes,yes,no,no,yes,don’t know,difficult,no,yes,no,yes,no,maybe,yes,no,na
+56,Male,India,UP,yes,no,no ,rarely,more than 1000,no,no,no,yes,yes,yes,don't know,somewhat difficult,maybe,no ,yes,no,yes,no,yes,no,na
+45,Female,India,Maharashtra,no,yes,yes,never,50,no,yes,yes,yes,yes,"don""t know",yes,very difficult,yes,maybe,some of them,no,no,yes,no,no,na
+32,Female,India,Karnataka,no,yes,no ,sometimes,1000-1500,yes,no,no,yes,maybe,no,yes,easy,no,yes,no,yes,no,yes,no,yes,na
+54,Male,India,Tamil Nadu,yes,no,no,rarely,500,yes,yes,no,no,no,no,no,difficult,may be, no,yes,yes,yes,no,yes,yes,na
